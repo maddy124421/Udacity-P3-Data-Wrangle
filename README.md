@@ -1,4 +1,4 @@
-#Boston Housing Prices
+#Data Wrangle-OpenStreetmap
 
 This is the 3rd project for the Udacity Data Analyst - Nanodegree. 
 Task was to choose any area of the world from https://www.openstreetmap.org and use data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data.My region is San Francisco,California.
